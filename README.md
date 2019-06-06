@@ -28,3 +28,9 @@ The `Song` API endpoint is located under `/songs`.
 - Implement a real database instead of generating dummy data
 - Add unit tests
 - Add edge case scenarios
+
+## DX improvement
+
+- Add prettier and githooks to format / run unit tests on commit
+- Add VSCode (or other IDE) config to run/debug in IDE
+- Add eslint and prettier-eslint for code linting / autofixing
