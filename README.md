@@ -28,6 +28,7 @@ The `Song` API endpoint is located under `/songs`.
 - Implement a real database instead of generating dummy data
 - Add unit tests
 - Add edge case scenarios
+- Add comments and JSDoc
 
 ## DX improvement
 
